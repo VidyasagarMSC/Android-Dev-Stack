@@ -8,3 +8,6 @@ A Full stack of Frameworks, Libraries and Tools for Android Developers.
 | [OkHttp](http://square.github.io/okhttp/) | An HTTP & HTTP/2 client for Android and Java applications |[Link1](http://www.vogella.com/tutorials/JavaLibrary-OkHttp/article.html)|
 | [Volley](https://android.googlesource.com/platform/frameworks/volley/)    | Transmitting Network Data Using Volley |[Link1](http://developer.android.com/training/volley/index.html)|
 
+## UI/UX
+
+Common Android Views Cheat Sheet - [Link](https://drive.google.com/file/d/0B5XIkMkayHgRMVljUVIyZzNmQUU/view)
