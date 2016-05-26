@@ -1,5 +1,5 @@
 # Android-Dev-Stack
-A Full stack of Frameworks, Libraries and Tools for Android Developers.
+A Full stack of Frameworks, Libraries, Tools and Tutorials for Android Developers.
 
 ## HTTP Libraries
 | Name | Description | Learn
@@ -11,3 +11,9 @@ A Full stack of Frameworks, Libraries and Tools for Android Developers.
 ## UI/UX
 
 Common Android Views Cheat Sheet - [Link](https://drive.google.com/file/d/0B5XIkMkayHgRMVljUVIyZzNmQUU/view)
+
+## Tutorials & MOOCs
+
+- [Beginner] Building your first android app - [Link](https://developer.android.com/training/index.html)
+- [Beginner / intermediate /Advanced] Udacity Android Catalog - A bunch of courses on Material Design, Gradle, Location services, performance etc  - [Link](https://www.udacity.com/courses/android)
+- [Advanced] Android Development Patterns - [Link](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
